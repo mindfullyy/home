@@ -1,0 +1,14 @@
+body {
+	text-align: center;
+	font-size: 200%;
+	padding: 20px;
+	background-image: linear-gradient(black, gray, white, purple);
+
+}
+
+a {
+	font-size: 150%;
+	text-decoration: none;
+	padding: 20px ;
+	display: inline-block;
+}
