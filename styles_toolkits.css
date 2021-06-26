@@ -1,0 +1,19 @@
+body {
+	text-align: center;
+	font-size: 200%;
+	padding: 15px;
+	background-image: linear-gradient(deeppink, gold, dodgerblue);
+	color: white;
+
+}
+
+p {
+	font-size: 150%;
+	text-decoration: none;
+	padding: 20px ;
+	display: inline-block;
+}
+
+h1{
+	color: white;
+}
